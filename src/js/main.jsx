@@ -97,7 +97,7 @@ function AppWrapper(props) {
         </div>
 
         <aside className="Sidebar">
-          <h3>🧐 Fun Facts</h3>
+          <h3>🍕Time is Pizza — Slice Facts!</h3>
           <ul>
             <li>1 minute = 60 seconds</li>
             <li>1 hour = 3,600 seconds</li>
@@ -119,9 +119,9 @@ function AppWrapper(props) {
 const mount = document.getElementById("app");
 const root  = createRoot(mount);
 
-let startFrom   = 3600;  
+let startFrom   = 0;  
 let alertAfter  = 0;     
-let counter     = 3600;
+let counter     = 0;
 let timerId     = null;
 let elapsed     = 0;
 let alertedOnce = false;
