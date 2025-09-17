@@ -85,7 +85,8 @@ html, body {
 }
 
 .Sidebar h3 {
-  margin: 0 0 15px 0;
+  text-align: center;
+  margin: 0 0 10px 0;
   font-size: 12px;
 }
 .Sidebar ul {
@@ -94,7 +95,7 @@ html, body {
   list-style: none;
 }
 .Sidebar li {
-  margin: 6px 0;
+  margin: 10px 0;
   font-size: 12px;
 }
 

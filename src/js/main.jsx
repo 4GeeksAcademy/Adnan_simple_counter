@@ -105,6 +105,7 @@ function AppWrapper(props) {
             <li>1 year ≈ 31,536,000 seconds</li>
             <li>Leap year ≈ 31,622,400 seconds</li>
           </ul>
+          <h3>😋 Eat Wisely! </h3>
         </aside>
       </div>
 
